@@ -16,5 +16,17 @@
   <script src="{{ '/assets/js/lunr-en.js' | absolute_url }}"></script>
 {% endif %}
 
+<script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", user => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
+</script>
+
 {% include analytics.html %}
 {% include /comments-providers/scripts.html %}
