@@ -1,0 +1,44 @@
+# Strings for dates
+# language French
+abbreviated_weekday:
+  - Dom
+  - Seg
+  - Ter
+  - Qua
+  - Qui
+  - Sex
+  - Sáb
+full_weekday:
+  - Domingo
+  - Segunda
+  - Terça
+  - Quarta
+  - Quinta
+  - Sexta
+  - Sábado
+abbreviated_month:
+  - Jan
+  - Fev
+  - Mar
+  - Abr
+  - Mai
+  - Jun
+  - Jul
+  - Ago
+  - Set
+  - Out
+  - Nov
+  - Dez
+full_month:
+  - janeiro
+  - fevereiro
+  - março
+  - abril
+  - maio
+  - junho
+  - julho
+  - agosto
+  - setembro
+  - outubro
+  - novembro
+  - dezembro

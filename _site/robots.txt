@@ -1,0 +1,1 @@
+Sitemap: http://localhost:4000/vp2/sitemap.xml

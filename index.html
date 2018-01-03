@@ -1,0 +1,20 @@
+---
+layout: archive2
+title: "Verdade Proibida"
+permalink: /
+author_profile: false
+excerpt: Um blog informando, denunciando e resistindo a Nova Ordem Mundial.
+sidebar:
+  nav: "docs"
+header:
+  overlay_image: /assets/images/dark-triangles.png
+  overlay_filter: rgba(110, 47, 43, 0.8)
+---
+
+<div class="grid__wrapper">
+  {% for post in site.posts %}
+    {% include archive-single.html type="grid" %}
+  {% endfor %}
+</div>
+
+{% include paginator.html %}

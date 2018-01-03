@@ -1,0 +1,48 @@
+# main links
+main:
+  - title: "Categorias"
+    url: /categorias/
+  - title: "Tags"
+    url: /tags/
+  - title: "Sobre"
+    url: /sobre/
+
+docs:
+  - title: Globalização
+    children:
+      - title: "Artigo 1"
+        url: /docs/quick-start-guide/
+      - title: "Artigo 2"
+        url: /docs/structure/
+      - title: "Artigo 3"
+        url: /docs/installation/
+      - title: "Artigo 4"
+        url: /docs/upgrading/
+
+  - title: Orgânicos
+    children:
+      - title: "Artigo 1"
+        url: /docs/configuration/
+      - title: "Artigo 2"
+        url: /docs/navigation/
+      - title: "Artigo 3"
+        url: /docs/ui-text/
+      - title: "Artigo 4"
+
+
+  - title: Criptomoedas
+    children:
+    - title: "Artigo 1"
+      url: /docs/configuration/
+    - title: "Artigo 2"
+      url: /docs/navigation/
+    - title: "Artigo 3"
+      url: /docs/ui-text/
+
+
+  - title: Religião
+    children:
+      - title: "Artigo 1"
+        url: /docs/configuration/
+      - title: "Artigo 2"
+        url: /docs/navigation/
