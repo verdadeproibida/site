@@ -13,9 +13,9 @@ title                    : "Verdade Proibida"
 title_separator          : "|"
 name                     : "Marcus Coelho"
 description              : "Resistindo, informando e denunciando a Nova Ordem Mundial"
-url                      : "https://matheuseabra.gitlab.io"
-baseurl                  : "/vp2"
-repository               : "matheuseabra/vp2"
+url                      : "https://verdadeproibida.netlify.com"
+baseurl                  : ""
+repository               : "verdadeproibida/site"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 breadcrumbs              : false
 words_per_minute         : 200
