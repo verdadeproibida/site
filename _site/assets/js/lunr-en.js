@@ -11,38 +11,11 @@ var idx = lunr(function () {
   
   
     idx.add({
-      title: "My First Post",
-      excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam quis libero egestas, maximus nisl condimentum, porttitor lorem. Phasellus ullamcorper libero...",
-      categories: ["categoria 1","categoria 2"],
-      tags: [],
-      id: 0
-    });
-    
-  
-    idx.add({
-      title: "My Second Post",
-      excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam quis libero egestas, maximus nisl condimentum, porttitor lorem. Phasellus ullamcorper libero...",
-      categories: ["categoria 1","categoria 2"],
-      tags: ["content","css","formatting","html","marku"],
-      id: 1
-    });
-    
-  
-    idx.add({
-      title: "My Third Article",
-      excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam quis libero egestas, maximus nisl condimentum, porttitor lorem. Phasellus ullamcorper libero...",
-      categories: ["categoria 1","categoria 2"],
-      tags: [],
-      id: 2
-    });
-    
-  
-    idx.add({
       title: "A nova Ordem Mundial",
       excerpt: "#Lorem ipsum dolor sit amet consectetur adipiscing elit. Nullam quis libero egestas, maximus nisl condimentum, porttitor lorem. Phasellus ullamcorper libero...",
       categories: ["NWO"],
       tags: ["content","iluminatti"],
-      id: 3
+      id: 0
     });
     
   
@@ -51,7 +24,7 @@ var idx = lunr(function () {
       excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam quis libero egestas, maximus nisl condimentum, porttitor lorem. Phasellus ullamcorper libero...",
       categories: ["Markup"],
       tags: ["content","css","formatting","html","marku"],
-      id: 4
+      id: 1
     });
     
   
@@ -60,7 +33,7 @@ var idx = lunr(function () {
       excerpt: "#Lorem ipsum dolor sit amet consectetur adipiscing elit. Nullam quis libero egestas, maximus nisl condimentum, porttitor lorem. Phasellus ullamcorper libero...",
       categories: [],
       tags: [],
-      id: 5
+      id: 2
     });
     
   
@@ -75,41 +48,8 @@ var store = [
     
       
       {
-        "title": "My First Post",
-        "url": "http://localhost:4000/vp2/categoria%201/categoria%202/my-first-post/",
-        "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam quis libero egestas, maximus nisl condimentum, porttitor lorem. Phasellus ullamcorper libero...",
-        "teaser":
-          
-            null
-          
-      },
-    
-      
-      {
-        "title": "My Second Post",
-        "url": "http://localhost:4000/vp2/categoria%201/categoria%202/my-second-post/",
-        "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam quis libero egestas, maximus nisl condimentum, porttitor lorem. Phasellus ullamcorper libero...",
-        "teaser":
-          
-            null
-          
-      },
-    
-      
-      {
-        "title": "My Third Article",
-        "url": "http://localhost:4000/vp2/categoria%201/categoria%202/my-third-article/",
-        "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam quis libero egestas, maximus nisl condimentum, porttitor lorem. Phasellus ullamcorper libero...",
-        "teaser":
-          
-            null
-          
-      },
-    
-      
-      {
         "title": "A nova Ordem Mundial",
-        "url": "http://localhost:4000/vp2/nwo/new-world-order/",
+        "url": "http://localhost:4000/nwo/new-world-order/",
         "excerpt": "#Lorem ipsum dolor sit amet consectetur adipiscing elit. Nullam quis libero egestas, maximus nisl condimentum, porttitor lorem. Phasellus ullamcorper libero...",
         "teaser":
           
@@ -120,7 +60,7 @@ var store = [
       
       {
         "title": "My Sample Article",
-        "url": "http://localhost:4000/vp2/markup/my-sample-article/",
+        "url": "http://localhost:4000/markup/my-sample-article/",
         "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam quis libero egestas, maximus nisl condimentum, porttitor lorem. Phasellus ullamcorper libero...",
         "teaser":
           
@@ -131,7 +71,7 @@ var store = [
       
       {
         "title": "Aquecimento Global",
-        "url": "http://localhost:4000/vp2/global-warming/",
+        "url": "http://localhost:4000/global-warming/",
         "excerpt": "#Lorem ipsum dolor sit amet consectetur adipiscing elit. Nullam quis libero egestas, maximus nisl condimentum, porttitor lorem. Phasellus ullamcorper libero...",
         "teaser":
           
