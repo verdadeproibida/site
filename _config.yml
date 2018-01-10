@@ -35,7 +35,7 @@ title_separator: "|"
 name: Marcus Coelho
 description: Resistindo, informando e denunciando a Nova Ordem Mundial
 url: https://verdadeproibida.netlify.com
-baseurl: ''
+baseurl: 
 repository: verdadeproibida/site
 teaser: 
 breadcrumbs: false
