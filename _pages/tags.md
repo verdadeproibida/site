@@ -1,7 +1,7 @@
 ---
+title: Tags
+permalink: "/tags/"
 layout: archive
-permalink: /tags/
-title: "Tags"
 excerpt: Artigos agrupados por tags
 author_profile: true
 header:

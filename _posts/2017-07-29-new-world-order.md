@@ -1,15 +1,17 @@
 ---
+title: A nova Ordem Mundial
+date: 2017-07-29 00:00:00 Z
+categories:
+- NWO
+tags:
+- content
+- iluminatti
 layout: single
 author_profile: true
-title: A nova Ordem Mundial
-excerpt: A unique line of text to describe this post that will display in an archive listing and meta description with SEO benefits.
-categories:
-  - NWO
-tags:
-  - content
-  - iluminatti
+excerpt: A unique line of text to describe this post that will display in an archive
+  listing and meta description with SEO benefits.
 header:
-  image: /assets/images/dark-triangles.png
+  image: "/assets/images/dark-triangles.png"
 ---
 
 #Lorem ipsum
