@@ -1,6 +1,6 @@
 ---
 title: A nova Ordem Mundial
-date: 2017-07-29 00:00:00 +0000
+date: 2017-07-29 00:00:00 Z
 categories:
 - NWO
 tags:
