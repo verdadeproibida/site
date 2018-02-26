@@ -1,6 +1,6 @@
 ---
 title: Aquecimento Global
-date: 2017-08-08 00:00:00 +0000
+date: 2017-08-08 00:00:00 Z
 layout: single
 author_profile: true
 excerpt: A unique line of text to describe this post that will display in an archive
