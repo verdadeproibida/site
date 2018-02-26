@@ -4,7 +4,7 @@ permalink: "/sobre/"
 layout: single
 excerpt: Algum sub-título para descrever a página
 toc: true
-toc_label: Índice da página
+toc_label: "Índice da página"
 toc_icon: gear
 author_profile: true
 breadcrumbs: false
