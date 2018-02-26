@@ -1,6 +1,6 @@
 ---
 title: My Sample Article
-date: 2017-08-02 00:00:00 Z
+date: 2017-08-02 00:00:00 +0000
 categories:
 - Markup
 tags:
