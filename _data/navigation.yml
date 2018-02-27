@@ -16,8 +16,7 @@ docs:
         url: /docs/structure/
       - title: "Artigo 3"
         url: /docs/installation/
-      - title: "Artigo 4"
-        url: /docs/upgrading/
+
 
   - title: Orgânicos
     children:
