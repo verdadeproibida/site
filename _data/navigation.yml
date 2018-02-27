@@ -26,8 +26,7 @@ docs:
         url: /docs/navigation/
       - title: "Artigo 3"
         url: /docs/ui-text/
-      - title: "Artigo 4"
-
+        
 
   - title: Criptomoedas
     children:
