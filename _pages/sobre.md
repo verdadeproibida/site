@@ -1,16 +1,15 @@
 ---
-layout: single
-permalink: /sobre/
 title: Sobre o blog
+permalink: "/sobre/"
+layout: single
 excerpt: Algum sub-título para descrever a página
 toc: true
-toc_label: "Índice da página"
-toc_icon: "gear"
+toc_label: Índice da página
+toc_icon: gear
 author_profile: true
 breadcrumbs: false
 header:
   overlay_color: "#6E2F2B"
-
 ---
 
 {% include toc icon="gears" title="My Table of Contents" %}

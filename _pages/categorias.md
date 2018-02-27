@@ -1,7 +1,7 @@
 ---
+title: Categorias
+permalink: "/categorias/"
 layout: archive
-permalink: /categorias/
-title: "Categorias"
 excerpt: Artigos agrupados por categorias
 author_profile: true
 header:

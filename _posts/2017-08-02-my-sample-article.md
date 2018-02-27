@@ -1,16 +1,18 @@
 ---
+title: My Sample Article
+date: 2017-08-02 00:00:00 Z
+categories:
+- Markup
+tags:
+- content
+- css
+- formatting
+- html
+- marku
 layout: single
 author_profile: true
 header:
-  image: /assets/images/bg-blur.jpg
-categories:
-  - Markup
-tags:
-  - content
-  - css
-  - formatting
-  - html
-  - marku
+  image: "/assets/images/bg-blur.jpg"
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam quis libero egestas, maximus nisl condimentum, porttitor lorem. Phasellus ullamcorper libero a varius pretium. Pellentesque et lectus gravida, ornare lorem non, venenatis odio. Praesent auctor purus ut tortor interdum, ac facilisis nunc ullamcorper. Nullam in mi lorem. Suspendisse tempor non ex ac tristique. Integer at accumsan dui, et consequat quam. Sed euismod sagittis ligula, vel euismod nunc. Integer bibendum porta tincidunt. Phasellus dignissim at nunc sit amet lacinia.

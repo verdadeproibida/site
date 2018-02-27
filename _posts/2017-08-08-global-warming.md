@@ -1,15 +1,17 @@
 ---
+title: Aquecimento Global
+date: 2017-08-08 00:00:00 Z
 layout: single
 author_profile: true
-title: Aquecimento Global
-excerpt: A unique line of text to describe this post that will display in an archive listing and meta description with SEO benefits.
+excerpt: A unique line of text to describe this post that will display in an archive
+  listing and meta description with SEO benefits.
 header:
-  image: /assets/images/bg-blur.jpg
+  image: "/assets/images/bg-blur.jpg"
   categories:
-    - Global warming
+  - Global warming
   tags:
-    - content
-    - iluminatti
+  - content
+  - iluminatti
 ---
 
 #Lorem ipsum
